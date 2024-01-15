@@ -9,11 +9,11 @@ const Counter = () => {
 
     return (
         <div>
-            <h1>This is Next Counter App</h1>
+            <h1 className="text-green-800">This is Next Counter App</h1>
             <h2>Counter: {counter}</h2>
 
-            <button className="mr-10" onClick={() => setCounter(counter + 1)}>Increase</button>
-            <button onClick={() => setCounter(counter - 1)}>Decrease</button>
+            <button className="btn btn-info mr-3" onClick={() => setCounter(counter + 1)}>Increase</button>
+            <button className="btn btn-warning" onClick={() => setCounter(counter - 1)}>Decrease</button>
         </div>
     );
 };
