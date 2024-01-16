@@ -1,0 +1,41 @@
+{
+    "posts": [
+        {
+          "id": "1",
+          "title": "Exciting Adventure",
+          "description": "Embark on a thrilling journey through uncharted lands, encountering mysterious creatures and solving ancient puzzles. This adventure promises excitement at every turn, leaving you breathless with anticipation.",
+          "likesCount": 120
+        },
+        {
+          "id": "2",
+          "title": "Culinary Delights",
+          "description": "Explore the world of gastronomy with mouthwatering dishes from diverse cuisines. From savory to sweet, savor the rich flavors that will tantalize your taste buds and leave you craving for more.",
+          "likesCount": 98
+        },
+        {
+          "id": "3",
+          "title": "Inspirational Quotes",
+          "description": "Elevate your spirits with a collection of profound and inspirational quotes. Let the wisdom of great minds guide you through life's challenges, inspiring you to achieve greatness.",
+          "likesCount": 210
+        },
+        {
+          "id": "4",
+          "title": "Photography Magic",
+          "description": "Capture the essence of magical moments through the lens. Dive into a world of breathtaking landscapes, candid portraits, and vibrant colors that will leave you in awe of the beauty around us.",
+          "likesCount": 176
+        },
+        {
+          "id": "5",
+          "title": "Mindful Meditation",
+          "description": "Discover inner peace and tranquility through guided mindfulness meditations. Immerse yourself in the present moment, letting go of stress and finding a serene oasis within your own mind.",
+          "likesCount": 135
+        },
+        {
+          "id": "6",
+          "title": "Tech Innovations",
+          "description": "Stay updated on the latest technological marvels and innovations shaping the future. From artificial intelligence to space exploration, witness the evolution of human ingenuity.",
+          "likesCount": 188
+        }
+      ]
+      
+}
